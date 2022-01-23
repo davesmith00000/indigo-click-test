@@ -1,4 +1,4 @@
-# QA Test: Mouse Clicks!!
+# Crowd Sourced QA Test - Mouse Clicks
 
 I'd like to know if the mouse clicks on the map and the buttons feel responsive to you.
 
@@ -11,16 +11,9 @@ Do you feel like mouse events are getting lost?
 
 ## To run the demo
 
-You'll need a static http server, the easiest way (inside this directory, on your command line, assuming linux/mac):
+Please visit this link:
 
-```
-$ npm install http-server
-http-server -c-1
-```
-
-Then open your browser at the address shown, usually [http://127.0.0.1:8080/](http://127.0.0.1:8080/).
-
-If you're on Windows I'm not sure what your best best is - IIS or maybe Python's simple static http server?
+[https://davesmith00000.github.io/indigo-click-test/](https://davesmith00000.github.io/indigo-click-test/)
 
 ## Controls
 
