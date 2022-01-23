@@ -1,0 +1,1 @@
+# indigo-click-test
